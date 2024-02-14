@@ -1,4 +1,3 @@
 title: Can AI build business cases
 description: Business cases automated for our projects
-theme: just-the-docs
-#remote_theme: just-the-docs/just-the-docs-template
+remote_theme: just-the-docs/just-the-docs@v0.5.2
